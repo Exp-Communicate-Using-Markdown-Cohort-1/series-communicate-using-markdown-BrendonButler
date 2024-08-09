@@ -63,3 +63,10 @@ The output of this should look like this:
   "hasCrown": true
 } 
 ```
+
+#### Steps to instantiating and testing a cat
+
+- [x] instantiate the cat
+- [x] test the output by printing
+- [ ] run a test that checks if the cat is null/undefined
+- [ ] run a test that checks the name, color, and numberOfArms/hasCrown
